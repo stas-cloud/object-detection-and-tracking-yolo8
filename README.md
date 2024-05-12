@@ -14,5 +14,7 @@ $ python main.py
 # note:
 after first run of the script, ./yolov8n.pt file of a model will be downloaded
 
-# link to the test video:
+# links to the test videos:
 https://www.youtube.com/watch?v=WAN5T2S0i2I&ab_channel=Techblog.gr
+
+https://drive.google.com/file/d/1TM3KF_JC_j9znTjtsGxF8InmUbPPPOUE/view?usp=sharing
